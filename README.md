@@ -4,3 +4,5 @@ It is a simple Binary classification model to predict a student's result(pass/fa
 -  Data set with 650 entries was taken with 32 Attributes 
 -  Implemented the Deep Learning models using Keras library 
 -  GUI was made using tkinter library
+
+![ann2](https://user-images.githubusercontent.com/45857315/86607009-6066c880-bfc6-11ea-8f1f-469aad5a58d4.png)
